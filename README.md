@@ -34,9 +34,9 @@ Hands-on Experience: Beginners can gain hands-on experience by working on small 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-Roadmap
+# Roadmap
 Future plans for the project include:
 
-# Adding more mini-applications to expand the project's scope.
+Adding more mini-applications to expand the project's scope.
 Enhancing existing mini-applications with additional features and improvements.
 Providing documentation and tutorials to aid in learning PyQt5 GUI development.
